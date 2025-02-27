@@ -17,22 +17,22 @@ What we will cover:
 Make sure to create your Figma Login before class, as we’ll be jumping right into the content. Here’s the site to create your login:[Figma]( https://www.figma.com/)
 
 ### Text 
-•	Tiara’s Trumpets
-•	Toot Your Horn to the Sound of Music
-•	Buy Now, Learn More, Purchase
-•	Checkout:, Product Costs:, Shipping:, Total:, Cardholder’s Name, Card Number, MM/YY, CVC
-•	Eastman Winds, Handspun, Yellow Brass Bell, Torch Annealed Bell Tail, Lacquer Finish
-•	Yamaha Band, Silver-Plated, Gold Brass Bell, Lacquer Finish
-•	XO Professional Brass, Yellow Brass Bell, Rose Brass Leadpipe, Monel Piston, Lacquer Finish
-•	$990, $1379, $1500, $19.99, $1009.99
+- Tiara’s Trumpets
+- Toot Your Horn to the Sound of Music
+- Buy Now, Learn More, Purchase
+- Checkout:, Product Costs:, Shipping:, Total:, Cardholder’s Name, Card Number, MM/YY, CVC
+- Eastman Winds, Handspun, Yellow Brass Bell, Torch Annealed Bell Tail, Lacquer Finish
+- Yamaha Band, Silver-Plated, Gold Brass Bell, Lacquer Finish
+- XO Professional Brass, Yellow Brass Bell, Rose Brass Leadpipe, Monel Piston, Lacquer Finish
+- $990, $1379, $1500, $19.99, $1009.99
 
 ### Colours 
-•	6DAEA6 (it’s a turquoise)
-•	C0DDDA (lighter turquoise)
-•	DDA943 (mustard yellow)
-•	7E422A (rust brown)
-•	FFFFFF (white)
-•	000000 (black)
+- 6DAEA6 (it’s a turquoise)
+- C0DDDA (lighter turquoise)
+- DDA943 (mustard yellow)
+- 7E422A (rust brown)
+- FFFFFF (white)
+- 000000 (black)
 
 ### Images 
 Can be found in the rest of the repository 
@@ -41,17 +41,17 @@ Can be found in the rest of the repository
 The images for the design can also be found in the rest of the repository 
 
 ## Keyboard Shortcuts
-o	Cntrl + Z for Undo (alternatively, you can use the backspace or delete button to remove the selected object)
-o	Cntrl + C for Copy
-o	Cntrl + X for Cut
-o	Cntrl + V for Paste
-o	Cntrl + Mouse Scroll Button for Zoom in and Out
-o	Shift + Mouse Scroll Button for Scroll left/right
-o	Shift + Click for Select all the objects/components/assets you want selected
-o	Cntrl + G to create a group from your selections
-o	Cntrl + Backspace to Ungroup objects/components/assets
-o	] for Bring to Front
-o	[ for Send to Back
-o	Cntrl + Alt + K to create a component from an object
-o	Cntrl + Alt + M to create a Mask out of an object/asset/component 
+- Cntrl + Z for Undo (alternatively, you can use the backspace or delete button to remove the selected object)
+- Cntrl + C for Copy
+- Cntrl + X for Cut
+- Cntrl + V for Paste
+- Cntrl + Mouse Scroll Button for Zoom in and Out
+- Shift + Mouse Scroll Button for Scroll left/right
+- Shift + Click for Select all the objects/components/assets you want selected
+- Cntrl + G to create a group from your selections
+- Cntrl + Backspace to Ungroup objects/components/assets
+- ] for Bring to Front
+- [ for Send to Back
+- Cntrl + Alt + K to create a component from an object
+- Cntrl + Alt + M to create a Mask out of an object/asset/component 
 
